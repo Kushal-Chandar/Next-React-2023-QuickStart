@@ -2,7 +2,7 @@
 
 A project that implements quick start guide from official react documentation in NextJS.
 
-## Getting Started
+## Development
 
 First, run the development server:
 
@@ -15,3 +15,7 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Production
+
+This project is deployed at <https://next-react-2023-quick-start.vercel.app/>
