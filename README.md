@@ -1,6 +1,6 @@
-# React QuickStart
+# Next React 2023 QuickStart
 
-This project demostrates the React Quick Start
+A project that implements quick start guide from official react documentation in NextJS.
 
 ## Getting Started
 
